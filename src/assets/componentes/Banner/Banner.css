@@ -1,0 +1,9 @@
+.banner{
+    background-color: violet;
+    width: 100vw;
+
+  }
+
+.banner figcaption {
+    font-size: 3rem;
+}
